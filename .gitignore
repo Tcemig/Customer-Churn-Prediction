@@ -14,9 +14,9 @@ env/
 .vscode/
 
 # Data files
-*.csv
-*.tsv
-*.xlsx
+# *.csv
+# *.tsv
+# *.xlsx
 
 # Model files
 *.pkl
